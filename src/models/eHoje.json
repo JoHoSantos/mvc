@@ -1,14 +1,18 @@
 [
     {
-        "Nome": ,
-        "sobrenome":,
-        "NomeCompleto":,
-
-        "LograDouro":,
-        "Número":,
-        "Bairro":,
-        "CEP":,
+      
+        "nomeCompleto":,        //String
+        "contato":{             //Objeto Json
+            "email":,           //String
+            "telefone":,        //String
         
-
+        "cpf":,                 //String
+        "endereço"{             //Objeto Json
+            "rua":,             //String
+            "cidade":,          //String
+            "estador":,         //String
+            "cep":,             //String
+        }     
+        }
     }
 ]
