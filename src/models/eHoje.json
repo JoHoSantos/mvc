@@ -1,17 +1,17 @@
 [
     {
       
-        "nomeCompleto":,        //String
-        "contato":{             //Objeto Json
-            "email":,           //String
-            "telefone":,        //String
+        "nomeCompleto":,        
+        "contato":{              
+            "email":,           
+            "telefone":,        
         
-        "cpf":,                 //String
-        "endereço"{             //Objeto Json
-            "rua":,             //String
-            "cidade":,          //String
-            "estador":,         //String
-            "cep":,             //String
+        "cpf":,                 
+        "endereço"{             
+            "rua":,             
+            "cidade":,          
+            "estador":,         
+            "cep":,             
         }     
         }
     }
